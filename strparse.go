@@ -1,5 +1,5 @@
 // Package strparse provides convenience wrappers around `go/parser` for simple
-// expression, statement and declaretion parsing from string.
+// expression, statement and declaration parsing from string.
 //
 // Can be used to construct AST nodes using source syntax.
 package strparse
