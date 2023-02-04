@@ -3,7 +3,6 @@
 [![build-img]][build-url]
 [![pkg-img]][pkg-url]
 [![reportcard-img]][reportcard-url]
-[![coverage-img]][coverage-url]
 [![version-img]][version-url]
 
 Package `strparse` provides convenience wrappers around `go/parser` for simple
@@ -45,7 +44,5 @@ func main() {
 [pkg-url]: https://pkg.go.dev/github.com/go-toolsmith/strparse
 [reportcard-img]: https://goreportcard.com/badge/go-toolsmith/strparse
 [reportcard-url]: https://goreportcard.com/report/go-toolsmith/strparse
-[coverage-img]: https://codecov.io/gh/go-toolsmith/strparse/branch/main/graph/badge.svg
-[coverage-url]: https://codecov.io/gh/go-toolsmith/strparse
 [version-img]: https://img.shields.io/github/v/release/go-toolsmith/strparse
 [version-url]: https://github.com/go-toolsmith/strparse/releases
