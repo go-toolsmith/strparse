@@ -6,7 +6,7 @@
 [![coverage-img]][coverage-url]
 [![version-img]][version-url]
 
-Package strparse provides convenience wrappers around `go/parser` for simple
+Package `strparse` provides convenience wrappers around `go/parser` for simple
 expression, statement and declaretion parsing from string.
 
 ## Installation
